@@ -1,3 +1,4 @@
+[![Build Status](https://ksterol.visualstudio.com/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/ksterol4all.mslearn-tailspin-spacegame-web?branchName=main)](https://ksterol.visualstudio.com/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=3&branchName=main)
 
 # Contributing
 
