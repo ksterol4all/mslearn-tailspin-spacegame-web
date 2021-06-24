@@ -52,7 +52,6 @@ steps:
     custom: tool
     arguments: 'restore'
 
-steps:
 - task: DotNetCoreCLI@2
   displayName: 'Install dotnet-reportgenerator-globaltool'
   inputs:
